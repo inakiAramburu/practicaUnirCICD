@@ -1,0 +1,10 @@
+apple
+banana
+zebra
+cat
+dog
+house
+tree
+river
+mountain
+computer
